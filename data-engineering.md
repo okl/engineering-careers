@@ -63,7 +63,7 @@ fruits of your labor, and ensure to the nines that they are having a
 good experience with your creations. You love the idea of having robust, self-healing systems
 and that's a goal worth marching toward. You are excited by
 delivering, and are addicted to the high of making a visible impact not only in
-the company, but in peoples every day lives.
+the company, but in people's every day lives.
 
 # Qualifications and Required Skills
 

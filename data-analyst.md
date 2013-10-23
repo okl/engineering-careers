@@ -63,7 +63,7 @@ new data set to play with. You want to see a problem completely
 solved, and understand that its important to not only listen to what
 the customer wants, but help give voice to what they didn't know they
 wanted. You are excited by delivering, and are addicted to the high of
-making a visible impact not only in the company, but in peoples every
+making a visible impact not only in the company, but in people's every
 day lives.
 
 

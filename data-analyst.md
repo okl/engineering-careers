@@ -14,7 +14,7 @@ filtering by attributes... and extracting non-obvious attributes.
 
 The bottom line is: Everyone. Needs. Data. And that's where we come in!
 
-As a member of the data engineering team at One Kings Lane, you'll be
+As a member of the Data Engineering team at One Kings Lane, you'll be
 in the business of data fulfillment: making sure data gets to the
 people who need it on schedule, and on a platform that will works for
 the way they will consume their data.  You'll be working along side a
@@ -32,7 +32,12 @@ your finger tips, enabling and encouraging you to think outside of the
 box on how we store and process data. Becoming very intimately
 connected to the data that runs our rapidly growing retail business,
 you'll guide various consumers and partners through the data to help
-them find the best approaches to answering their questions.
+them find the best approaches to answering their questions. This role will work
+ closely with the other members of the data engineering team to help
+ guide the development of tools to enhance your efficiency and
+ productivity, and ensure the reliability and stability of the
+ data warehouse, as well as engage with our customers
+ to ensure they're having the best experience we can possibly provide
 
 
 More concisely, this role will:
@@ -46,7 +51,7 @@ More concisely, this role will:
  * Provide advice and guidance to the various teams working with data
    to searching for insight.
  * Be a champion of performance, scalability, and reliability.
- 
+
 In a nutshell: You love data, thinking abstractly about data, finding
 commonalities across seemingly disjoint problems. Data is like clay to
 you. You want to push it, pull it, extract it, and extrude it into new
@@ -54,7 +59,13 @@ and wonderful shapes. Correctness, quality, and consistency are
 important to you, and you feel there's a certain elegance you provide
 when translating business requirements into a data model, and get a
 rush of seeing the sparkle in an analysts eyes when you give them a
-new data set to play with.
+new data set to play with. You want to see a problem completely
+solved, and understand that its important to not only listen to what
+the customer wants, but help give voice to what they didn't know they
+wanted. You are excited by delivering, and are addicted to the high of
+making a visible impact not only in the company, but in peoples every
+day lives.
+
 
 
 # Qualifications and Required Skills
@@ -68,9 +79,9 @@ new data set to play with.
  * Excited by the prospect of learning and working with new or
    unconventional technologies
  * Strong SQL Skills
-   * Familiar with performance concepts like indices and explain plans.
-   * Employ common SQL design patterns for top records, ordering,
-     cross-tab, etc.
+ * Familiar with performance concepts like indices and explain plans.
+ * Employ common SQL design patterns for top records, ordering,
+   cross-tab, etc.
 
 
 # Desired Skills

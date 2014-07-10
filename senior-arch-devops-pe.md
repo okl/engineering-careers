@@ -1,6 +1,11 @@
-<Principal Engineer / Software Architect / DevOps Architect>
+# <Principal Engineer / Software Architect / DevOps Architect>
 
-One Kings Lane seeks a hands-on, motivated <title>, who'll be responsible for all aspects of One Kings Lane storefront and  in a fast paced, high growth, dynamic start-up environment. OKL is the online leader in <BLAH>, and our technology leverages industry-best tools and practices to enable our customers to indulge their dreams of <BLAH>...
+_We need to tailor this paragraph to the responsibility that we expect
+this roke to be responsible for_
+
+One Kings Lane seeks a hands-on, motivated <title>, who'll be responsible for all aspects of One Kings Lane storefront and in a fast paced, high growth, dynamic start-up environment. OKL is the online leader in <BLAH>, and our technology leverages industry-best tools and practices to enable our customers to indulge their dreams of <BLAH>...
+
+_This paragraph is great by contrast_
 
 You may not know every software language, tool, or design pattern but with a little help from Google and StackOverflow, you can learn a new things in a day and you're a subject matter expert in a week.  You reflexively write unit tests and can mentor a team of engineers in test driven development practices.  You design pragmatic, scalable architectures that are as simple as they should be (but no simpler!)  You use NoSQL and RDBMS technologies where and when they're appropriate, but you're not married to either.  You embrace DevOps philosophies and know that platform software in the 21st century is always evolving and never complete.  You champion security, scalability, and reliability throughout the software stack.  You are motivated by a commitment to writing understandable, maintainable, and reusable software.  You understand the application lifecycle and know that installation, configuration and deployment of application components is just as important as clean code.  You strive for quality and operational excellence.
 

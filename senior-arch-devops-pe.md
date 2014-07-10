@@ -1,9 +1,9 @@
-# <Principal Engineer / Software Architect / DevOps Architect>
+# [Principal Engineer / Software Architect / DevOps Architect]
 
 _We need to tailor this paragraph to the responsibility that we expect
 this roke to be responsible for_
 
-One Kings Lane seeks a hands-on, motivated <title>, who'll be responsible for all aspects of One Kings Lane storefront and in a fast paced, high growth, dynamic start-up environment. OKL is the online leader in <BLAH>, and our technology leverages industry-best tools and practices to enable our customers to indulge their dreams of <BLAH>...
+One Kings Lane seeks a hands-on, motivated __insert_title__, who'll be responsible for all aspects of One Kings Lane storefront and in a fast paced, high growth, dynamic start-up environment. OKL is the online leader in __blahblahblah__, and our technology leverages industry-best tools and practices to enable our customers to indulge their dreams of __blahblahblah__...
 
 _This paragraph is great by contrast_
 
@@ -23,8 +23,8 @@ You may not know every software language, tool, or design pattern but with a lit
 
 # Required Skills
 
-* Strong knowledge of <Software Design Patterns / Development Design
-  Patterns>
+* Strong knowledge of Software Design Patterns / Development Design
+  Patterns
 * Proven ability to detect, analyze, and remedy software problems
 * Produce thorough documentation; from highly technical procedures to how-to/tutorial documents
 * Encourage and guide test driven development (TDD) practices

@@ -6,19 +6,15 @@ You may not know every software language, tool, or design pattern but with a lit
 
 # Required Attributes
 
+* Drive technical strategy across multiple long term and short term projects
 * Learn new techniques, languages, and tools quickly to drive organizational success.
 * Transition well between providing high-level direction and diving
   into technical implementation
 * Collaborate effectively through thoughtful and helpful interactions
-* Mentor junior and senior developers effectively
-* Communicate effectively to both technical and non-technical
-  audiences
+* Provide technical leadership and mentorship to junior and senior engineers effectively
+* Communicate effectively with both technical and non-technical audiences
 * Execute role and responsibilities within Agile software development
   philosophy and associated practices (e.g. Scrum, Kanban)
-
-## Architech Required Attribtues
-
-* Drive technical strategy across multiple long term and short term projects
 
 # Required Skills
 
@@ -34,6 +30,7 @@ You may not know every software language, tool, or design pattern but with a lit
 
 
 # Desired Skills
+
 * Ruby on Rails framework experience
 * Familiarity with Apache HTTP Server or Nginx
 * Experience with Amazon AWS
@@ -41,15 +38,11 @@ You may not know every software language, tool, or design pattern but with a lit
 * Experience using configuration management tools (Puppet, Chef, CFEngine, Salt)
 
 
-## DevOps Desired Skills
+## DevOps Role - Additional Desired Skills
+
 * Data center management experience
 * Experience with *NIX command line & power tools
 * Experience with Bourne, Korn, or Bash script languages
-
-## Remove this? Seems irrelevant...
-
-* Familiarity with Atlassian suite of tools (JIRA, Confluence,
-  Crucible, etc.)
 
 
 # Required Experience
@@ -57,8 +50,3 @@ You may not know every software language, tool, or design pattern but with a lit
 * Prior experience in a start-up/small company environment with high growth rate
 * 4 year college degree or equivalent industry experience
 * 5+ years of experience in a Senior Engineering or Architecture role
-
-
-
-
----

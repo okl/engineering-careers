@@ -54,22 +54,16 @@ In addition to the skills expected of a _Software Engineer_
 * Effective contributor within multiple code bases
 * Diagnose bugs that may span multiple applications or services and drive cross application fixes
 
-
-
 ## Technical Fluency
 * Provide constructive technical feedback when reviewing the work of peers 
-*  Work effectively with technologies adjacent to the their application demonstrating holistic ownership and initiative
+* Work effectively with technologies adjacent to the their application demonstrating holistic ownership and initiative
 * Provide design documentation for the scope of implementation with sufficient thoroughness that the implementation can be handed off to 1-2 other engineers.
-* Developing knowledge beyond core competency.
+* Develop knowledge beyond core competency.
 * Proactively make use of software design patterns relevant to your area of focus 
-* Able to navigate and become rapidly productive within unfamiliar code bases
-* Able to rapidly engage with new technologies due to deep, productive exposure several technological tool sets.
-
-------------
-NOT YET UPDATED
-
-* Has a significant level of understanding with respect to one or two technologies 
-*  Demonstrate understanding of the application lifecycle: considerations for logging, debugging and managing the application in its run-time state.
+* Navigate and become rapidly productive within unfamiliar code bases
+* Rapidly engage with new technologies due to deep, productive exposure several technological tool sets.
+* Undaunted when needing to work across multiple technologies.
+* Reflexively considers software development best practices and application lifecycle management when developing solutions. (ex. how to test, how to debug, how to monitor, how to assess performance, etc.) 
 
 ## Leadership Skills
 * Provide mentorship for _Software Engineers_, interns or new hires

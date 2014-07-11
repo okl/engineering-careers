@@ -82,41 +82,28 @@ In addition to the skills expected of a _Software Engineer_
 In addition to the skills expected of a _Senior Software Engineer_ 
 
 ## Solution Complexity ##
+* Understand multiple proposed solutions by Engineers and critically evaluate the merits of each solution to then synthesize them into a course of action (evaluate technical choices)
+* Making sure that technical complexity is decomposed such that it can be distributed throughout the team reflecting individual technical abilities (ensuring the work can doled out matches the skills at the table, resource matching?)
+* Can sequence work such that it's delivered in the right order, considering delivery time, complexity, value, and risk.  (Technical Project  Implementation Management)
 
----------------------------------
-NOT YET ADDRESSED
-
-* Implement solutions whose complexity can span an entire application and integrations with other applications.
-* Able to translate a problem statement into a well defined application or series of components demonstrating software design best practices.
-* Evolve the code base in substantial ways that increase simplicity, enable flexibility or drive new features, while still maintaining good software design principals
-* Effective contributor within multiple code bases
-* Diagnose bugs that may span multiple applications or services and drive cross application fixes
 
 ## Technical Fluency
 
--------------------------------
-NOT YET ADDRESSED
-
-* Provide constructive technical feedback when reviewing the work of peers 
-* Work effectively with technologies adjacent to the their application demonstrating holistic ownership and initiative
-* Provide design documentation for the scope of implementation with sufficient thoroughness that the implementation can be handed off to 1-2 other engineers.
-* Develop knowledge beyond core competency.
-* Proactively make use of software design patterns relevant to your area of focus 
-* Navigate and become rapidly productive within unfamiliar code bases
-* Rapidly engage with new technologies due to deep, productive exposure several technological tool sets.
-* Undaunted when needing to work across multiple technologies.
-* Reflexively considers software development best practices and application lifecycle management when developing solutions. (ex. how to test, how to debug, how to monitor, how to assess performance, etc.) 
+* Able to provide technical direction on behalf of the team
 
 ## Leadership Skills ##
+
+* Responsible for the quality of the product coming from their group
+* Ensure the team is adhering to best practices and software design patterns
 
 
 ----------------------
 NOT YET ADDRESSED
 
 * Provide mentorship for _Software Engineers_, interns or new hires
-* Communicate effectively with non-technical business partners
 
 ## Team Skills ##
+* Able to work effective with other Lead Engineers to coordinate cross functional technical efforts
 
 ----------------------
 NOT YET ADDRESSED

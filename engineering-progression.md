@@ -49,16 +49,12 @@ In addition to the skills expected of a _Software Engineer_
 
 ## Solution Complexity
 * Implement solutions whose complexity can span an entire application and integrations with other applications.
+* Able to translate a problem statement into a well defined application or series of components demonstrating software design best practices.
+* Evolve the code base in substantial ways that increase simplicity, enable flexibility or drive new features, while still maintaining good software design principals
 * Effective contributor within multiple code bases
-----------
-NOT YET UPDATED
-* Implement solutions on top of existing or legacy code of afore mentioned complexity
-*  Diagnose bugs and implement fixes of nominal complexity
-*  Refactor unsustainably implemented code as encountered in the code base
-* Implement bug fixes of nominal complexity
+* Diagnose bugs that may span multiple applications or services and drive cross application fixes
 
-* Improve or enhance existing code
-* Implement additional components that fit into a larger pre-defined structure
+
 
 ## Technical Fluency
 * Provide constructive technical feedback when reviewing the work of peers 

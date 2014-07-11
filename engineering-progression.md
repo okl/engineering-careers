@@ -38,6 +38,7 @@ the skills outlined below.
 * Communicate status on tasks and progress effectively
 * Collaborate effectively within your team
 * Collaborate effectively with other technical groups within the organization
+* Participate in technical discussions
 
 ## Typical Years of Experience ##
 
@@ -71,15 +72,64 @@ In addition to the skills expected of a _Software Engineer_
 
 ## Team Skills
 * Collaborate effectively with other technical _and non-technical_ groups within the organization
+* Initiates technical discussions and frequently shares knowledge and practices within the team
+* Regularly contributes and updates team knowledge base regarding the on-going management of systems
 
 ## Likely Years of Experience
 2 - 5 years
 
 # Lead Engineer
+In addition to the skills expected of a _Senior Software Engineer_ 
+
+## Solution Complexity ##
+
+---------------------------------
+NOT YET ADDRESSED
+
+* Implement solutions whose complexity can span an entire application and integrations with other applications.
+* Able to translate a problem statement into a well defined application or series of components demonstrating software design best practices.
+* Evolve the code base in substantial ways that increase simplicity, enable flexibility or drive new features, while still maintaining good software design principals
+* Effective contributor within multiple code bases
+* Diagnose bugs that may span multiple applications or services and drive cross application fixes
+
+## Technical Fluency
+
+-------------------------------
+NOT YET ADDRESSED
+
+* Provide constructive technical feedback when reviewing the work of peers 
+* Work effectively with technologies adjacent to the their application demonstrating holistic ownership and initiative
+* Provide design documentation for the scope of implementation with sufficient thoroughness that the implementation can be handed off to 1-2 other engineers.
+* Develop knowledge beyond core competency.
+* Proactively make use of software design patterns relevant to your area of focus 
+* Navigate and become rapidly productive within unfamiliar code bases
+* Rapidly engage with new technologies due to deep, productive exposure several technological tool sets.
+* Undaunted when needing to work across multiple technologies.
+* Reflexively considers software development best practices and application lifecycle management when developing solutions. (ex. how to test, how to debug, how to monitor, how to assess performance, etc.) 
+
+## Leadership Skills ##
+
+
+----------------------
+NOT YET ADDRESSED
+
+* Provide mentorship for _Software Engineers_, interns or new hires
+* Communicate effectively with non-technical business partners
+
+## Team Skills ##
+
+----------------------
+NOT YET ADDRESSED
+
+* Collaborate effectively with other technical _and non-technical_ groups within the organization
+* Initiates technical discussions and frequently shares knowledge and practices within the team
+* Regularly contributes and updates team knowledge base regarding the on-going management of systems
 
 ## Likely Years of Experience
 4 - 7 years
 
 # Principal Engineer
+
+
 
 # Architect

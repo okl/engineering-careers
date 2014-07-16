@@ -1,6 +1,11 @@
 ![Career Path Diagram](resources/CareerPathDiagram.png)
 
-# Both Tracks
+
+
+# Engineering Roles
+
+* [Senior Engineering][#Senior Engineering]
+* [Engineering Management][#Engineering Management]
 
 ## Software Engineer / System Engineer ##
 
@@ -94,7 +99,8 @@ In addition to the skills expected of a _Software Engineer / System Engineer_
 
 ## Lead Engineer ##
 
-In addition to the skills expected of a _Senior Software Engineer_
+In addition to the skills expected of a _Senior Software Engineer /
+Senior Systems Engineer_
 
 ### Solution Complexity ###
 

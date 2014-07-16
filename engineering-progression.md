@@ -1,6 +1,6 @@
 ![Career Path Diagram](resources/CareerPathDiagram.png)
 
-# Software Engineer
+# Software Engineer / System Engineer
 
 *Note*:  Coming in the door, if a software engineer is fresh,
 and/or young in his/her career we should assume that these skills are
@@ -45,7 +45,7 @@ the skills outlined below.
 * 0 - 3 years
 
 --------
-# Senior Software Engineer #
+# Senior Software Engineer / Senior System Engineer #
 In addition to the skills expected of a _Software Engineer_
 
 ## Solution Complexity

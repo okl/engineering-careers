@@ -1,4 +1,4 @@
-<img align="center" src="resources/CareerPathDiagram.png" alt="Career Path Diagram"> 
+![Career Path Diagram](resources/CareerPathDiagram.png)
 
 # Software Engineer
 

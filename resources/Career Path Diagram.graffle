@@ -46,7 +46,7 @@
 	<key>Creator</key>
 	<string>Alex Bahouth</string>
 	<key>DisplayScale</key>
-	<string>1 0/72 in = 1 0/72 in</string>
+	<string>1 0/72 in = 1.0000 in</string>
 	<key>GraphDocumentVersion</key>
 	<integer>8</integer>
 	<key>GraphicsList</key>
@@ -551,6 +551,19 @@
 								<key>r</key>
 								<string>0.120189</string>
 							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>0.0</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.218903</string>
+								<key>g</key>
+								<string>0.432734</string>
+								<key>r</key>
+								<string>0.0804243</string>
+							</dict>
 						</dict>
 					</dict>
 					<key>Text</key>
@@ -597,6 +610,19 @@
 								<string>0.640594</string>
 								<key>r</key>
 								<string>0.120189</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>0.0</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.218903</string>
+								<key>g</key>
+								<string>0.432734</string>
+								<key>r</key>
+								<string>0.0804243</string>
 							</dict>
 						</dict>
 					</dict>
@@ -663,7 +689,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-07-16 16:14:25 +0000</string>
+	<string>2014-07-16 22:55:59 +0000</string>
 	<key>Modifier</key>
 	<string>Alex Bahouth</string>
 	<key>NotesVisible</key>
@@ -758,7 +784,7 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-116, 0}, {808, 598}}</string>
+		<string>{{-109, 0}, {794, 598}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

@@ -83,64 +83,56 @@ In addition to the skills expected of a _Senior Software Engineer_
 
 ## Solution Complexity ##
 * Understand multiple proposed solutions by Engineers and critically evaluate the merits of each solution to then synthesize them into a course of action (evaluate technical choices)
-* Making sure that technical complexity is decomposed such that it can be distributed throughout the team reflecting individual technical abilities (ensuring the work can doled out matches the skills at the table, resource matching?)
-* Can sequence work such that it's delivered in the right order, considering delivery time, complexity, value, and risk.  (Technical Project  Implementation Management)
+* Ensure that technical complexity is decomposed such that it can be distributed throughout the team reflecting individual technical abilities (ensuring the work can doled out matches the skills at the table, resource matching?)
+* Sequence work such that it's delivered in the right order, considering delivery time, complexity, value, and risk.  (Technical Project  Implementation Management)
 
-----------------------
-Yilmaz
-
-* Works to ensure KPIs are met as a part of project delivery
 
 ## Technical Fluency
 
-* Able to provide technical direction on behalf of the team
+* Effectively communicate and lead technical approach and direction to the project team
+* Align technical solutions and approaches to business needs
+
 
 ## Leadership Skills ##
+* Facilitate productive technical conversations within the team driving toward a convergence
+* Responsible for the quality of the product coming from their projects
+* Ensure the project team is adhering to best practices and software design patterns
+* Ensure project team contributes and updates team knowledge base regarding the on-going management of systems
+* Effectively lead project teams through project lifecycle
+	*  _Planning_: ideation, definition, design 
+	*  _Execution_: coordination, execution, delivery
+	*   _Iteration_: maintenance, sustainability, ability to iterate
 
-* Responsible for the quality of the product coming from their group
-* Ensure the team is adhering to best practices and software design patterns
-* Has led teams through successful project development lifecycle
-
-
-----------------------
-NOT YET ADDRESSED
-
-* Provide mentorship for _Software Engineers_, interns or new hires
 
 ## Team Skills ##
-* Able to work effective with other Lead Engineers to coordinate cross-functional technical efforts and external dependencies
+* Work effectively with other Lead Engineers to coordinate cross-functional technical efforts and external dependencies
+* Engage product, architecture, and project management counter parts to balance approaches for solutions within a given area.
+* Share knowledge about technical approaches and projects that are being undertaken within Engineering.
 
-----------------------
-Yilmaz
-* Ensures team is made aware of tactical project needs
-
-----------------------
-NOT YET ADDRESSED
-
-* Collaborate effectively with other technical _and non-technical_ groups within the organization
-* Initiates technical discussions and frequently shares knowledge and practices within the team
-* Regularly contributes and updates team knowledge base regarding the on-going management of systems
 
 ## Likely Years of Experience
 4 - 7 years
 
-# Principal Engineer
-In addition to the skills expected of a _Lead Engineer_
+# Principal Engineer / Architect
+An equitable skill set is expected of either a Principal Engineer or an Architect. The key differentiator between the two title is the _role expectations_ for each position. In addition to the skills expected of a _Lead Engineer_
 
 ## Solution Complexity
+* Demonstrate deep understanding of systems within an entire functional business area. (e.g. Enterprise, Consumer, Data and Analytics)
+* Understands dependencies and integration points between functional business areas
 
-----------------------
-Yilmaz
-*
 
 ## Technical Fluency
-
-----------------------
-Yilmaz
-* Subject matter expert for one or more large systems in the infrastructure
-* Defines best practices at large-scale and considers
+* Easily familiarize and orient self within a new or different technology stack
+* Effectively work within in any system within the organization.
 
 ## Leadership Skills
+
+## Role - Architect ##
+
+## Role - Principal Engineer ##
+
+* A principa
+
 
 ----------------------
 Yilmaz

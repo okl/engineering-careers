@@ -86,6 +86,10 @@ In addition to the skills expected of a _Senior Software Engineer_
 * Making sure that technical complexity is decomposed such that it can be distributed throughout the team reflecting individual technical abilities (ensuring the work can doled out matches the skills at the table, resource matching?)
 * Can sequence work such that it's delivered in the right order, considering delivery time, complexity, value, and risk.  (Technical Project  Implementation Management)
 
+----------------------
+Yilmaz
+
+* Works to ensure KPIs are met as a part of project delivery
 
 ## Technical Fluency
 
@@ -95,6 +99,7 @@ In addition to the skills expected of a _Senior Software Engineer_
 
 * Responsible for the quality of the product coming from their group
 * Ensure the team is adhering to best practices and software design patterns
+* Has led teams through successful project development lifecycle
 
 
 ----------------------
@@ -103,7 +108,11 @@ NOT YET ADDRESSED
 * Provide mentorship for _Software Engineers_, interns or new hires
 
 ## Team Skills ##
-* Able to work effective with other Lead Engineers to coordinate cross functional technical efforts
+* Able to work effective with other Lead Engineers to coordinate cross-functional technical efforts and external dependencies
+
+----------------------
+Yilmaz
+* Ensures team is made aware of tactical project needs
 
 ----------------------
 NOT YET ADDRESSED
@@ -116,7 +125,63 @@ NOT YET ADDRESSED
 4 - 7 years
 
 # Principal Engineer
+In addition to the skills expected of a _Lead Engineer_
+
+## Solution Complexity
+
+----------------------
+Yilmaz
+*
+
+## Technical Fluency
+
+----------------------
+Yilmaz
+* Subject matter expert for one or more large systems in the infrastructure
+* Defines best practices at large-scale and considers
+
+## Leadership Skills
+
+----------------------
+Yilmaz
 
 
+## Team Skills
+
+----------------------
+Yilmaz
+* Works closely with architects to adhere to system blueprints.
+
+
+
+## Likely Years of Experience
+6 - 10 years
 
 # Architect
+In addition to the skills expected of a _Lead Engineer_
+
+## Solution Complexity
+
+----------------------
+Yilmaz
+* Considers company-scale ownership of solution integrity
+* Defines vision and blueprints for cross-team integration of software
+* Consulted on engineering focus (build vs buy?)
+
+## Technical Fluency
+
+## Leadership Skills
+
+----------------------
+Yilmaz
+* Involved as a solution consultant across projects at the program level.
+
+
+## Team Skills
+
+----------------------
+Yilmaz
+* Communicates with stakeholders and owners of the largest systems.
+
+## Likely Years of Experience
+6 - 10 years

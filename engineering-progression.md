@@ -1,4 +1,4 @@
-
+![Career Path Diagram](resources/CareerPathDiagram.png)
 
 # Software Engineer
 
@@ -19,7 +19,7 @@ the skills outlined below.
 ## Technical Fluency
 * Solve problems using essential idioms involving one or two technologies (e.g. core unix tool, sql proficiency, idioms relevant to programming languages, user interface components, web interface components)
 * Develop a deeper understanding of one or two technologies beyond superficial usage (e.g. peeking behind the curtain with ruby, rails, query execution, browser rendering, OS and/or platform understanding, etc)
-* Recognize the use of software design patterns relevant to your area of focus 
+* Recognize the use of software design patterns relevant to your area of focus
 * Iterate and improve upon implementations given feedback
 * Triage and diagnose bugs and application issues
 * Create tests to capture essential implementation expectations
@@ -46,7 +46,7 @@ the skills outlined below.
 
 --------
 # Senior Software Engineer #
-In addition to the skills expected of a _Software Engineer_ 
+In addition to the skills expected of a _Software Engineer_
 
 ## Solution Complexity
 * Implement solutions whose complexity can span an entire application and integrations with other applications.
@@ -56,15 +56,15 @@ In addition to the skills expected of a _Software Engineer_
 * Diagnose bugs that may span multiple applications or services and drive cross application fixes
 
 ## Technical Fluency
-* Provide constructive technical feedback when reviewing the work of peers 
+* Provide constructive technical feedback when reviewing the work of peers
 * Work effectively with technologies adjacent to the their application demonstrating holistic ownership and initiative
 * Provide design documentation for the scope of implementation with sufficient thoroughness that the implementation can be handed off to 1-2 other engineers.
 * Develop knowledge beyond core competency.
-* Proactively make use of software design patterns relevant to your area of focus 
+* Proactively make use of software design patterns relevant to your area of focus
 * Navigate and become rapidly productive within unfamiliar code bases
 * Rapidly engage with new technologies due to deep, productive exposure several technological tool sets.
 * Undaunted when needing to work across multiple technologies.
-* Reflexively considers software development best practices and application lifecycle management when developing solutions. (ex. how to test, how to debug, how to monitor, how to assess performance, etc.) 
+* Reflexively considers software development best practices and application lifecycle management when developing solutions. (ex. how to test, how to debug, how to monitor, how to assess performance, etc.)
 
 ## Leadership Skills
 * Provide mentorship for _Software Engineers_, interns or new hires
@@ -79,7 +79,7 @@ In addition to the skills expected of a _Software Engineer_
 2 - 5 years
 
 # Lead Engineer
-In addition to the skills expected of a _Senior Software Engineer_ 
+In addition to the skills expected of a _Senior Software Engineer_
 
 ## Solution Complexity ##
 * Understand multiple proposed solutions by Engineers and critically evaluate the merits of each solution to then synthesize them into a course of action (evaluate technical choices)

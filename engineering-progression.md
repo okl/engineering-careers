@@ -4,8 +4,8 @@
 
 # Engineering Roles
 
-* [Senior Engineering][#Senior Engineering]
-* [Engineering Management][#Engineering Management]
+* [Senior Engineering](#Senior Engineering)
+* [Engineering Management](#Engineering Management)
 
 ## Software Engineer / System Engineer ##
 

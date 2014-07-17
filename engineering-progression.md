@@ -10,9 +10,9 @@ Before an Engineer enters a leadership role, be it technical or organizational, 
 
 ### _Lead Engineer_ vs. _Engineering Manager_
 
-* _Engineering Managers_ are responsible for the organization of a group of technical people around execution and delivery of software. This means their primary repsonsibility is managing people, process, discussions, meetings, and time. While they are technically skilled and able to accomplish the same kind of work as a Lead Engineer, their primary responsibility is for managing the organization. That does not mean they may not sometimes or often play the _Lead Engineer_ role within their group or their project, but it does mean their _responsibility and expectations_ are organizational, not technical.
+* __Engineering Managers__ are responsible for the organization of a group of technical people around execution and delivery of software. This means their primary repsonsibility is managing people, process, discussions, meetings, and time. While they are technically skilled and able to accomplish the same kind of work as a Lead Engineer, their primary responsibility is for managing the organization. That does not mean they may not sometimes or often play the _Lead Engineer_ role within their group or their project, but it does mean their _responsibility and expectations_ are organizational, not technical.
 
-* _Lead Engineers_ are responsible for the organization of the technical approach to implementing solutions. Being a Lead Engineer absolutely requires working and organizing people around a technical initative, ensuring the people of the appropriate skill level are tasked to the work before them, and that the work itself is clear and understood, and their team mates are technically supported by them. While often _Lead Engineers_ will play a part in developing organizational processes, helping organize people similar to an _Engineering Manager_ the primarily _responsibility and expectation_ is around the technology and the technical approach by which a solution is being solved, and the ability to scale the execution of an implementation across a group of people through coordinated design and execution not necessarily around the organization of the group. _Lead Engineers_ are also expected to play effective supporting roles in projects they are not leading.
+* __Lead Engineers__ are responsible for the organization of the technical approach to implementing solutions. Being a Lead Engineer absolutely requires working and organizing people around a technical initative, ensuring the people of the appropriate skill level are tasked to the work before them, and that the work itself is clear and understood, and their team mates are technically supported by them. While often _Lead Engineers_ will play a part in developing organizational processes, helping organize people similar to an _Engineering Manager_ the primarily _responsibility and expectation_ is around the technology and the technical approach by which a solution is being solved, and the ability to scale the execution of an implementation across a group of people through coordinated design and execution not necessarily around the organization of the group. _Lead Engineers_ are also expected to play effective supporting roles in projects they are not leading.
 
 
 ### _Architect_ vs. _Principal Engineer_
@@ -161,18 +161,13 @@ Senior Systems Engineer_
 An equitable skill set is expected of either a Principal Engineer or an Architect. The key differentiator between the two title is the _role expectations_ for each position. In addition to the skills expected of a _Lead Engineer_
 
 ### Solution Complexity ###
-
 * Demonstrate deep understanding of systems within an entire functional business area. (e.g. Enterprise, Consumer, Data and Analytics)
-* Understands dependencies and integration points between functional business areas
-
-
-----------------------
-Yilmaz
-* Considers company-scale ownership of solution integrity
-* Defines vision and blueprints for cross-team integration of software
-* Consulted on engineering focus (build vs buy?)
-
-
+* Understand dependencies and integration points between functional business areas
+* Provide oversight of technical projects such that they are being executed in a synergistic manner (i.e. integration points line up, assumptions are consistent on both sides, etc.)
+* Drive technical strategy
+	* Identify and communicate out technology gaps that form within the business
+	* Drive build vs. buy decisions, exploring solutions and facilitating paths integrations to move the over all offering forward
+	* Broker the necessity for technical architectural maintenance across the engineering organization 
 
 ### Technical Fluency ###
 
@@ -181,6 +176,14 @@ Yilmaz
 
 ### Leadership Skills ###
 
+* Facilitate productive technical conversations within the engineering organization driving toward convergence
+* Responsible how effectively engineering is technically meeting the business needs
+* Ensure the engineering organization is adhering to best practices and software design patterns
+* 
+* Effectively lead engineering organization through project lifecycle
+	*  _Planning_: ideation, definition, design
+	*  _Execution_: coordination, execution, delivery
+	*  _Iteration_: maintenance, sustainability, ability to iterate
 
 ----------------------
 Yilmaz
@@ -207,10 +210,18 @@ Yilmaz
 
 * 7 - 10 years of Experience
 
+
+
 # Engineering Managerment
 
 ## Engineering Manager
 
 ## Director of Engineering
 
-## VP of Engineering
+## VP of Engineering ##
+
+
+
+# TODO #
+
+* Explain honorifics (like Sr. Lead, Sr. Princip, Sr. Arch)

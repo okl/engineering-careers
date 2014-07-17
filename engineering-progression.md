@@ -179,16 +179,11 @@ An equitable skill set is expected of either a Principal Engineer or an Architec
 * Facilitate productive technical conversations within the engineering organization driving toward convergence
 * Responsible how effectively engineering is technically meeting the business needs
 * Ensure the engineering organization is adhering to best practices and software design patterns
-* 
+* Ensure systems are architected and executed in a manner that is maintainable within and appropriate for the organization.
 * Effectively lead engineering organization through project lifecycle
 	*  _Planning_: ideation, definition, design
 	*  _Execution_: coordination, execution, delivery
 	*  _Iteration_: maintenance, sustainability, ability to iterate
-
-----------------------
-Yilmaz
-* Involved as a solution consultant across projects at the program level.
-
 
 ### Team Skills ###
 
@@ -203,8 +198,10 @@ Yilmaz
 
 
 ### Role - Architect ###
+* Involved as a solution consultant across projects at the program level.
 
 ### Role - Principal Engineer ###
+
 
 ### Typical Years of Experience ###
 
@@ -212,7 +209,7 @@ Yilmaz
 
 
 
-# Engineering Managerment
+# Engineering Management
 
 ## Engineering Manager
 
@@ -225,3 +222,4 @@ Yilmaz
 # TODO #
 
 * Explain honorifics (like Sr. Lead, Sr. Princip, Sr. Arch)
+* Explain how skills can manifest themselves in different ways based on personal interest and ability, organizational projects, etc.

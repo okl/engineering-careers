@@ -4,6 +4,20 @@
 
 # Engineering Roles
 
+## Role and Career Path distinctions
+
+Before an Engineer enters a leadership role, be it technical or organizational, the above diagram and below descriptions indicate the level of skill and ability that has been demonstrated before finding themselves deciding between becoming a _Lead Engineer_ or a _Engineering Manager_, or between becoming a _Principal Engineer_ or an _Architect_.  In each of these positions that land as a result of the fork in the road, the critical difference is not in capabilities of the person considering the role, but in what is expected of them in each role. As such, it's important that the distinction of the differences between the roles is clear, not merely the expectation of the role itself.
+
+### _Lead Engineer_ vs. _Engineering Manager_
+
+* _Engineering Managers_ are responsible for the organization of a group of technical people around execution and delivery of software. This means their primary repsonsibility is managing people, process, discussions, meetings, and time. While they are technically skilled and able to accomplish the same kind of work as a Lead Engineer, their primary responsibility is for managing the organization. That does not mean they may not sometimes or often play the _Lead Engineer_ role within their group or their project, but it does mean their _responsibility and expectations_ are organizational, not technical.
+
+* _Lead Engineers_ are responsible for the organization of the technical approach to implementing solutions. Being a Lead Engineer absolutely requires working and organizing people around a technical initative, ensuring the people of the appropriate skill level are tasked to the work before them, and that the work itself is clear and understood, and their team mates are technically supported by them. While often _Lead Engineers_ will play a part in developing organizational processes, helping organize people similar to an _Engineering Manager_ the primarily _responsibility and expectation_ is around the technology and the technical approach by which a solution is being solved, and the ability to scale the execution of an implementation across a group of people through coordinated design and execution not necessarily around the organization of the group. _Lead Engineers_ are also expected to play effective supporting roles in projects they are not leading.
+
+
+### _Architect_ vs. _Principal Engineer_
+
+
 * [Senior Engineering](#senior-engineering)
 * [Engineering Management](#engineering-management)
 
@@ -96,7 +110,7 @@ In addition to the skills expected of a _Software Engineer / System Engineer_
 * Initiates technical discussions and frequently shares knowledge and practices within the team
 * Regularly contributes and updates team knowledge base regarding the on-going management of systems
 
-## Typical Years of Experience
+### Typical Years of Experience
 2 - 5 years
 
 # Senior Engineering

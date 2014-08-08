@@ -17,6 +17,7 @@ Before an Engineer enters a leadership role, be it technical or organizational, 
 
 ### _Architect_ vs. _Principal Engineer_
 
+esayle: I'm assuming that you're going to add a section like the previous distinction here.
 
 * [Senior Engineering](#senior-engineering)
 * [Engineering Management](#engineering-management)
@@ -159,6 +160,7 @@ Senior Systems Engineer_
 ## Principal Engineer / Architect ##
 
 An equitable skill set is expected of either a Principal Engineer or an Architect. The key differentiator between the two title is the _role expectations_ for each position. In addition to the skills expected of a _Lead Engineer_
+
 
 ### Solution Complexity ###
 * Demonstrate deep understanding of systems within an entire functional business area. (e.g. Enterprise, Consumer, Data and Analytics)

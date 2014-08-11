@@ -10,9 +10,9 @@ Before an Engineer enters a leadership role, be it technical or organizational, 
 
 ### _Lead Engineer_ vs. _Engineering Manager_
 
-* __Engineering Managers__ are responsible for the organization of a group of technical people around execution and delivery of software. This means their primary repsonsibility is managing people, process, discussions, meetings, and time. While they are technically skilled and able to accomplish the same kind of work as a Lead Engineer, their primary responsibility is for managing the organization. That does not mean they may not sometimes or often play the _Lead Engineer_ role within their group or their project, but it does mean their _responsibility and expectations_ are organizational, not technical.
+* __Engineering Managers__ are responsible for the organization of a group of technical people around execution and delivery of software. This means their primary repsonsibility is managing people, process, discussions, meetings, and time. While they are technically skilled and able to accomplish the same kind of work as a Lead Engineer, their primary responsibility is for managing the organization. This doesn't imply that the _Engineering Manager_ will not also play the _Lead Engineer_ role within their group or project, but it does mean that their primary _responsibilities and expectations_ are organizational, not technical.
 
-* __Lead Engineers__ are responsible for the organization of the technical approach to implementing solutions. Being a Lead Engineer absolutely requires working and organizing people around a technical initative, ensuring the people of the appropriate skill level are tasked to the work before them, and that the work itself is clear and understood, and their team mates are technically supported by them. While often _Lead Engineers_ will play a part in developing organizational processes, helping organize people similar to an _Engineering Manager_ the primarily _responsibility and expectation_ is around the technology and the technical approach by which a solution is being solved, and the ability to scale the execution of an implementation across a group of people through coordinated design and execution not necessarily around the organization of the group. _Lead Engineers_ are also expected to play effective supporting roles in projects they are not leading.
+* __Lead Engineers__ are responsible for the organization of the technical approach to implementing solutions. Being a Lead Engineer absolutely requires organizing people around a technical initative, ensuring that people with the necessary skills and skill-level are tasked to the work before them, and that the work itself is clear and understood, and their team mates are technically supported by them. While often _Lead Engineers_ will play a part in developing organizational processes, helping organize people similar to an _Engineering Manager_, the primary _responsibility and expectation_ is around the technology and approach in solving technical problems, and the ability to scale the implementation across a group of people through coordinated design and execution not necessarily around the organization of the group. _Lead Engineers_ are also expected to play effective supporting roles in projects they are not leading.
 
 
 ### _Architect_ vs. _Principal Engineer_
@@ -31,12 +31,12 @@ the skills outlined below.
 
 ### Solution Complexity ###
 
-* Implement solutions whose complexity are at the scale single blocks of logic (e.g methods, functions, and procedures, queries)
-* Implement solutions whose complexity involves integrating an navigating several components within an application.
+* Implement solutions whose complexity are at the scale of single blocks of logic (e.g methods, functions, and procedures, queries)
+* Implement solutions whose complexity involves integrating and navigating several components within an application.
 * Implement additional components that fit into a larger pre-defined structure
-* Implement solutions on top of existing or legacy code of afore mentioned complexity
+* Implement solutions on top of existing or legacy code of aforementioned complexity
 * Diagnose bugs and implement fixes of nominal complexity
-* Refactor unsustainably implemented code as encountered in the code base
+* Refactor redundant, overly complex, or otherwise unsustainable code as encountered in the codebase
 * Demonstrate separation of concerns within their implementation
   (e.g. functions/methods/procedures, queries, user interface
   implementations are rarely broken down, with clear blocks of logic)
@@ -55,6 +55,7 @@ the skills outlined below.
 ### Leadership Skills ###
 
 * Receive mentorship well and demonstrate growth
+* Ability to collaborate with peers in a pair programming environment
 * Contribute to larger projects when playing a supporting role on collaborative initiatives
 
 ### Team Skills ###
@@ -81,9 +82,9 @@ In addition to the skills expected of a _Software Engineer / System Engineer_
 ### Solution Complexity ###
 
 * Implement solutions whose complexity can span an entire application and integrations with other applications.
-* Able to translate a problem statement into a well defined application or series of components demonstrating software design best practices.
-* Evolve the code base in substantial ways that increase simplicity, enable flexibility or drive new features, while still maintaining good software design principals
-* Effective contributor within code bases accross multiple business applications
+* Able to translate a problem statement into a well-defined application or series of components demonstrating software design best practices.
+* Evolve the codebase in substantial ways that increase simplicity, enable flexibility or drive new features, while still maintaining good software design principals
+* Effective contributor within codebases accross multiple business applications
 * Diagnose bugs that may span multiple applications or services and drive cross application fixes
 * Proactively make use of software design patterns relevant to your
   area of focus
@@ -102,6 +103,7 @@ In addition to the skills expected of a _Software Engineer / System Engineer_
 ### Leadership Skills ###
 
 * Provide mentorship for _Software Engineers / System Engineers_, interns or new hires
+* Ability to collaborate with peers in a pair programming environment
 * Communicate effectively with _non-technical_ business partners
 
 ### Team Skills ###
